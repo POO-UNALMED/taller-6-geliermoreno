@@ -9,9 +9,6 @@ import org.junit.jupiter.api.TestMethodOrder;
 import vehiculos.Automovil;
 import vehiculos.Camion;
 import vehiculos.Camioneta;
-import vehiculos.Fabricante;
-import vehiculos.Pais;
-import vehiculos.Vehiculo;
 
 @TestMethodOrder(MethodOrderer.Alphanumeric.class)
 public class TestFuncionalidades {
